@@ -14,3 +14,9 @@
 <img src="https://pos.nvncdn.com/f2fe44-24897/store/20180126_gVLn1I1Irv2dz2XjhYDIshMM.png" alt="Banlinhkien" width="50" />   [**BanLinhKien**](https://banlinhkien.com/)
 
 ---
+
+[***Bộ KIT Học Tập ESP32 IOT Cơ Bản BLK***](https://banlinhkien.com/bo-kit-hoc-tap-esp32-iot-co-ban-blk-p38420583.html)
+
+<img src="https://pos.nvncdn.com/f2fe44-24897/ps/20240730_MyXktUWW6C.jpeg" alt="Bộ KIT Học Tập ESP32 IOT Cơ Bản BLK" width="400" />   <img src="https://pos.nvncdn.com/f2fe44-24897/ps/20240730_PkXqnS8wvv.jpeg" alt="Bộ KIT Học Tập ESP32 IOT Cơ Bản BLK" width="400" />   
+
+---
